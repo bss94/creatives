@@ -66,9 +66,11 @@ nav ul li a:hover{
 
 }
 .case{
-    height: 100%;
-    padding-top:230px;
-
+    height: 100vh;
+    padding-top:115px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #main .main-title{
     font-family: Gotham-Bold, sans-serif;
