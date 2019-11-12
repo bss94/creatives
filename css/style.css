@@ -65,11 +65,15 @@ nav ul li a:hover{
 
 
 }
+.case{
+    height: 100%;
+    padding-top:230px;
+
+}
 #main .main-title{
     font-family: Gotham-Bold, sans-serif;
    font-size: 154px;
     text-transform: uppercase;
-  padding-top: 350px;
     text-align: center;
 
 }
@@ -334,7 +338,7 @@ background: #11749e;
     padding: 120px;
     background: url("../images/section7bg.png");
     background-size: cover;
-    height: 100vh;
+    height: 850px;
     color: #fff;
 }
 
